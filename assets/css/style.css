@@ -1,0 +1,94 @@
+/*css da pagina index.html*/
+body {
+    margin: 0%;
+}
+
+h1 {
+    /*configiração titulo  */
+    margin-top: 30px;
+    text-align: center;
+    margin: 10;
+  
+    
+}
+
+h2 {
+    text-align: center;
+}
+
+nav {
+    /* menu */
+    margin: 0%;
+    /*distancia pra fora*/
+    padding: 10px;
+    /*distancia dentro da estrutura*/
+    background-color: brown;
+}
+
+.textmenu:hover {
+    /*palavras do menu*/
+    color: aquamarine;
+}
+
+a {
+    color: aliceblue;
+    margin-left: 30px;
+    font-size: 20px;
+    /*tamanho da palavra*/
+    text-decoration: none;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    /* none anula a confguração padrão*/
+}
+
+.container {
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+   
+    
+ 
+    
+}
+
+.video {
+    display: flex;
+    justify-content: center;
+}
+
+img {
+
+    border-radius: 50%;
+
+}
+
+.center{
+    text-align: center;
+  
+}
+
+.tm{
+    width: 50px;
+    height: 50px;
+}
+
+.mb{
+    margin: 40px;
+}
+
+.text{
+    text-align: justify;
+    padding: 30px;
+}
+
+.
+/*css da pagina contato.html*/
+.ml-50{
+    margin-left: 50px;
+   
+}
+
