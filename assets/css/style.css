@@ -47,8 +47,10 @@ ul {
 .container {
     display: flex;
     flex-flow: row;
-    justify-content: center;
+    justify-content:space-around;
     align-items: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
    
     
  
@@ -85,10 +87,7 @@ img {
     padding: 30px;
 }
 
-.
+
 /*css da pagina contato.html*/
-.ml-50{
-    margin-left: 50px;
-   
-}
+
 
